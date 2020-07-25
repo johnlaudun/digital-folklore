@@ -1,10 +1,10 @@
 # 1. About This Course
 
-## Welcome to the Course!
+Welcome to the Course!
 
-## What is this course about?
+## 1.1. What is this course about?
 
-## How is it organized?
+## 1.2. How is it organized?
 
 ### How to organize yourself
 

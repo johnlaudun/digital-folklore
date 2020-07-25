@@ -1,0 +1,15 @@
+site_name: Digital Folklore and Culture
+
+nav:
+    - 1. About the Course: 01-Welcome.md
+    - 2. What is Folklore?: 02-Folklore.md
+    - 3. What is Digital?: 03-Digital.md
+
+theme:
+    name: readthedocs
+
+extra:
+    version: 1.2
+
+markdown_extensions:
+    - smarty
