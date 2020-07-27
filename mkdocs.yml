@@ -1,4 +1,8 @@
 site_name: Digital Folklore and Culture
+site_url: https://digitalfolklore.net
+repo_url: https://github.com/johnlaudun/digital-folklore
+site_author: John Laudun
+copyright: 2020, John Laudun, CC BY-NC-SA 4.0
 
 nav:
     - 1. About the Course: 01-Welcome.md
