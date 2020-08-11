@@ -4,11 +4,21 @@
 
 > *Learning is a special form of dimensionality reduction*. -- Jakob Foerster (Facebook AI Research Scientist)
 
+A lot of people will repeat “May you live in interesting times” and tell you it is a Chinese curse. It’s attribution to the Chinese is as beguiling as its appearance as a benediction. (For the record, according to [Wikipedia](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times), the closest Chinese saying is "If you follow Better to be a dog in times of tranquility than a human in times of chaos" [[寧為太平犬，不做亂世人](https://en.wiktionary.org/wiki/寧為太平犬，不做亂世人)].)
+
+Well, we do live in interesting times, don’t we? Normally I would assure you that the importance of our current moment or the speed of change or the qualities of change we face is just something we arrogate to ourselves, that every era has felt much the same: all you need to do is head to your local library and ask the librarian to show you newspapers from the 1940s or 50s. Coal strikes. Atom bomb tests. The Cold War. 
+
+But a global pandemic changes everything. It especially changes education, which is normally putting too many people into too small of a room inside buildings not well maintained. We can’t do that. And so we fall back on distance learning technologies, which are neither better nor worse than face-to-face learning technologies, but different enough that few of us excel at it. 
+
+So we are doing something different, and by reading this you are already in the middle of that difference: to the best of my ability, I hope to be able to combine times we meet with material found here on this site, which I am largely constructing as a kind of extended and expanded textbook for a course I had planned to teach in person only a few short months ago. 
+
+One of the first things to note is that this course has a [syllabus](https://textalytics.net/334/) and a schedule, but that those are hosted with the syllabi and schedules of all my courses. The documentation here will, I hope, match that on the schedule, but if need to know dates or points, you will not find it in these pages. Here there will be only content, with links to material protected by copyright but available through fair use found on the course’s Moodle site as well as quizzes. See the [syllabus](https://textalytics.net/334/) for other matters.
+
 ## 1.1. What is this course about?
 
-Would it scare you if this course claimed to be about dimensionality reduction? 
+Would it scare you if this course claimed to be about dimensionality reduction?The description of this course notes that: “Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma’s gumbo.” And that we will explore these phenomena through inspection, compilation, and distillation. What that means is that we will encounter a variety of scholarly explorations of forms both old and new and explore those forms at first individually, to get a feel for how they work, and then as collections where we can learn a lot just by challenging ourselves to sort things into categories. Congratulations, that sorting is a kind of dimensionality reduction. 
 
-Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma’s gumbo. *Digital Folklore and Culture* explores the varieties and depths of these forms, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of multimedia materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The course includes producing an online portfolio and learning collaborative and versioning systems to make it possible to work with others as well as secure your own work. 
+Maybe another place to begin is to watch this brief video by fellow folklorist 
 
 Andrea Kitta on [COVID-19 Gossip, Rumor, Legend, and Conspiracy Theories](https://www.youtube.com/watch?v=-x6gKUG6DTE)
 
