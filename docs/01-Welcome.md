@@ -4,15 +4,15 @@
 
 > *Learning is a special form of dimensionality reduction*. -- Jakob Foerster (Facebook AI Research Scientist)
 
-A lot of people will repeat “May you live in interesting times” and tell you it is a Chinese curse. It’s attribution to the Chinese is as beguiling as its appearance as a benediction. (For the record, according to [Wikipedia](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times), the closest Chinese saying is "If you follow Better to be a dog in times of tranquility than a human in times of chaos" [[寧為太平犬，不做亂世人](https://en.wiktionary.org/wiki/寧為太平犬，不做亂世人)].)
+A lot of people will repeat “May you live in interesting times” and tell you it is a Chinese curse. It’s attribution to the Chinese is as beguiling as its appearance as a benediction. (For the record, according to [Wikipedia](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times), the closest Chinese saying is "Better to be a dog in times of tranquility than a human in times of chaos" [[寧為太平犬，不做亂世人](https://en.wiktionary.org/wiki/寧為太平犬，不做亂世人)].)
 
-Well, we do live in interesting times, don’t we? Normally I would assure you that the importance of our current moment or the speed of change or the qualities of change we face is just something we arrogate to ourselves, that every era has felt much the same: all you need to do is head to your local library and ask the librarian to show you newspapers from the 1940s or 50s. Coal strikes. Atom bomb tests. The Cold War. 
+Interesting? Chaotic? Normally I would assure you that the feel of our current moment, the speed of change or the nature of change, is just something we arrogate to ourselves in the present, that every era has felt much the same: all you need to do is head to your local library and ask the librarian to show you newspapers from the 1940s or 50s. Coal strikes. Atom bomb tests. The Cold War.  (Americans are seemingly an apocalyptic lot.)
 
 But a global pandemic changes everything. It especially changes education, which is normally putting too many people into too small of a room inside buildings not well maintained. We can’t do that. And so we fall back on distance learning technologies, which are neither better nor worse than face-to-face learning technologies, but different enough that few of us excel at it. 
 
 So we are doing something different, and by reading this you are already in the middle of that difference: to the best of my ability, I hope to be able to combine times we meet with material found here on this site, which I am largely constructing as a kind of extended and expanded textbook for a course I had planned to teach in person only a few short months ago. 
 
-One of the first things to note is that this course has a [syllabus](https://textalytics.net/334/) and a schedule, but that those are hosted with the syllabi and schedules of all my courses. The documentation here will, I hope, match that on the schedule, but if need to know dates or points, you will not find it in these pages. Here there will be only content, with links to material protected by copyright but available through fair use found on the course’s Moodle site as well as quizzes. See the [syllabus](https://textalytics.net/334/) for other matters.
+One of the first things to note is that this course has a [syllabus](https://textalytics.net/334/), but that it is hosted with the syllabi and schedules of all my courses. The documentation here will, I hope, match that on the schedule, but if you need to know dates or assignments, you will not find them in these pages. Here there will be only content, with links to material protected by copyright but available through fair use found on the course’s Moodle site. For everything else, see the [syllabus](https://textalytics.net/334/).
 
 ## 1.1. What is this course about?
 
@@ -41,16 +41,3 @@ As to the less obvious things you must do: *ask questions*. In most cases, you w
 
 Finally, connect with someone else. In an in-person class, I ask students to do this in case they miss a class and need to get notes. In a remote class, it’s a good idea to swap notes with someone: you can see what you missed. *Make it happen*.
 
-## What are the requirements?
-
-* _Scientific American_'s [60-Second Science](https://www.scientificamerican.com/podcast/episode/old-art-offers-agriculture-info/) series is billed as a podcast, and thus depends upon audio, but episodes regularly feature visuals -- usually just one, and it's not a slide of bullet points but more often an image or a graph which is explained during the course of the episode.
-* Multi-panel comic. 
-* Timeline of/with images.
-* miniTEDtalk
-* _Horrible Histories_ sometimes features [songs](https://www.youtube.com/watch?v=tDy4oBa2jyM). 
-
-### Course Project
-
-* No less than 10 examples of object of study
-
-As a folklorist, I study anecdotes. Anecdotes are the stuff of life. They can even be objects of study. You just can't work with anecdotal evidence, in the sense that a small number of examples—sometimes only one—drawn from personal experience can serve as your data. It's perfectly fine to let your personal experience draw you towards an object of study, but once you have established that object, you need to collect (and analyze) objectively and purposefully; not casually, anecdotally.
