@@ -1,13 +1,21 @@
 # 1. About This Course
 
-> *Learning [should] be not so much about saving information, like on a hard disk, but about building connections and bridges between pieces of information. ... It is about making sure that the right cues trigger the right memory, about how we can think strategically to remember the most useful information when we need it.* -- Sonke Ahrens
+> *Learning [should] be not so much about saving information, like on a hard disk, but about building connections and bridges between pieces of information. ... It is about making sure that the right cues trigger the right memory, about how we can think strategically to remember the most useful information when we need it.* -- Sonke Ahrens, _How to Take Smart Notes_ (2017)
+
+> *Learning is a special form of dimensionality reduction*. -- Jakob Foerster (Facebook AI Research Scientist)
+
+## 1.1. What is this course about?
+
+Would it scare you if this course claimed to be about dimensionality reduction? 
 
 Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma’s gumbo. *Digital Folklore and Culture* explores the varieties and depths of these forms, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of multimedia materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The course includes producing an online portfolio and learning collaborative and versioning systems to make it possible to work with others as well as secure your own work. 
 
-This course was originally imagined as taking place in a classroom three days a week -- Monday, Wednesday, Friday from 10 to 11, to be precise -- but obviously in this pandemic moment, plans had to change. The good news is that we can have the best of both worlds: we can still talk with each other, if also through screens, but we can also be fully immersed in the digital realm that is our object of study. (You will just need to remind yourself that sometimes you're on TikTok for fun and sometimes you're on TikTok for class.)
-## 1.1. What is this course about?
+Andrea Kitta on [COVID-19 Gossip, Rumor, Legend, and Conspiracy Theories](https://www.youtube.com/watch?v=-x6gKUG6DTE)
+
 
 ## 1.2. How is it organized?
+
+This course was originally imagined as taking place in a classroom three days a week -- Monday, Wednesday, Friday from 10 to 11, to be precise -- but obviously in this pandemic moment, plans had to change. The good news is that we can have the best of both worlds: we can still talk with each other, if also through screens, but we can also be fully immersed in the digital realm that is our object of study. (You will just need to remind yourself that sometimes you're on TikTok for fun and sometimes you're on TikTok for class.)
 
 ### How to organize yourself
 
@@ -25,6 +33,11 @@ Finally, connect with someone else. In an in-person class, I ask students to do 
 
 ## What are the requirements?
 
+* _Scientific American_'s [60-Second Science](https://www.scientificamerican.com/podcast/episode/old-art-offers-agriculture-info/) series is billed as a podcast, and thus depends upon audio, but episodes regularly feature visuals -- usually just one, and it's not a slide of bullet points but more often an image or a graph which is explained during the course of the episode.
+* Multi-panel comic. 
+* Timeline of/with images.
+* miniTEDtalk
+* _Horrible Histories_ sometimes features [songs](https://www.youtube.com/watch?v=tDy4oBa2jyM). 
 
 ### Course Project
 
