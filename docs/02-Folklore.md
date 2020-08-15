@@ -1,37 +1,12 @@
 # What is folklore?
 
-In this unit I want to define folklore studies as the study of the vernacular, people "talking" with each other, as opposed to mass culture. The line between the two is incredibly blurred when it comes to the digital domains which we will be exploring. 
+There are a lot of ways to begin an exploration of folklore, especially digital folklore, and Lynne McNeill offers us one way to begin thinking about it. While her talk is titled [Folklore doesn't meme what you think it memes](https://www.youtube.com/watch?v=PBDJ2UJpKt4), she addresses the larger questions of *what is culture?* and *how do we know who we are?* along the way. 
 
-​	1.1	A Brief History of Folklore Studies
+* [Folklore doesn't meme what you think it memes | Lynne McNeill | TEDxUSU](https://www.youtube.com/watch?v=PBDJ2UJpKt4)
 
-​	1.2	Orientation
+After you've watched the video, be sure to head over to the Moodle forum and contribute to the discussion there.
 
-​		1.2.1	Personal
-
-​			Personal vs institutional: folklorists are oriented towards those moments when people feel most empowered. 
-
-​		1.2.2	Interpersonal
-
-​		1.2.3	Immediate
-
-​		1.2.4	Traditional
-
-​		1.2.5	Local
-
-​	1.3	What is performance?
-
-​		1.3.1	Reading 1: BKG "A Parable in Context"
-
-​			For at least the initial readings, some part of the assessment/discussion needs to be focused on structure and mechanics of the writing. 
-
-​		1.3.2	Reading 2: Bell "Tending Bar at Brown's"
-
-​	1.4	What is tradition?
-
-2	What is digital folklore?
-
-3	Memes
-
-4	Legends
-
-5	Ephemera (TikToks, etc.)
+* Bateson, Gregory. 1972. Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology. Chicago, Illinois: University of Chicago Press. (See the essays: “A Theory of Play and Fantasy” and “Style, Information, and Grace.”)
+* Bauman, Richard. 1975. “Verbal Art as Performance.” American Anthropologist 77 (2): 290–311. doi:10.1525/aa.1975.77.2.02a00030.
+* Goffman, Erving. 1974. Frame Analysis: An Essay on the Organization of Experience. New York: Harper Colophon Books.
+* Hall, Edward. 1976. Beyond Culture. Anchor Books.
