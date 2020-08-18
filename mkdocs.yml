@@ -5,9 +5,9 @@ site_author: John Laudun
 copyright: 2020, John Laudun, CC BY-NC-SA 4.0
 
 nav:
-    - 1. About the Course: 01-Welcome.md
-    - 2. What is Folklore?: 02-Folklore.md
-    - 3. What is Digital?: 03-Digital.md
+    - About the Course: Welcome.md
+    - 1. What is Folklore?: 01-Folklore.md
+    - 2. What is Digital?: 02-Digital.md
 
 theme:
     name: readthedocs

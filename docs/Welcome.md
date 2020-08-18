@@ -71,6 +71,4 @@ Here are some basics:
 * [Ahrens's answer to “What is the best way to take notes?” on Quora](https://www.quora.com/What-is-the-best-way-to-take-notes/answer/S%C3%B6nke-Ahrens?ch=10&share=e1efd8f9&srid=uJBsW#oysZB)
 * [PDF Slides explaining categories versus tags versus links](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf) and how Luhman’s system uses links, tags, and unique identifiers.
 
-But, look, feel free to search for yourself. You might find something like [This Simple Note-Taking Method Will Help You Read More (and remember what you’ve read) | by Ryan Holiday | Thrive Global | Medium](https://medium.com/thrive-global/this-simple-note-taking-method-will-help-you-read-more-and-remember-what-youve-read-c915f79f9ff2)
-
-You may even come across my own take on the matter, [Why I Write Notes by Hand (And You Should, Too)](https://johnlaudun.org/20150819-notes-by-hand/).
+But, look, feel free to search for yourself. You might find something like [This Simple Note-Taking Method Will Help You Read More (and remember what you’ve read)](https://medium.com/thrive-global/this-simple-note-taking-method-will-help-you-read-more-and-remember-what-youve-read-c915f79f9ff2). You may even come across my own take on the matter, [Why I Write Notes by Hand (And You Should, Too)](https://johnlaudun.org/20150819-notes-by-hand/).
